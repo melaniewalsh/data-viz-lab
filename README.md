@@ -10,7 +10,7 @@ The sample datasets include: [refugee arrivals to the U.S. by country and religi
 
 The sample Tableau project created in class with refugee arrival data can be found, explored, and downloaded [as a Tableau workbook here](https://public.tableau.com/profile/melanie.walsh#!/vizhome/RefugeeArrivalstotheU_S_2005-2015/TotalRefugeeArrivalstoU_S_2005-2015).
 
-[![][1]]((https://public.tableau.com/profile/melanie.walsh#!/vizhome/RefugeeArrivalstotheU_S_2005-2015/TotalRefugeeArrivalstoU_S_2005-2015)
+[![](images/refugee-arrivals.png)]((https://public.tableau.com/profile/melanie.walsh#!/vizhome/RefugeeArrivalstotheU_S_2005-2015/TotalRefugeeArrivalstoU_S_2005-2015)
 
 [1]: images/refugee-arrivals.png
 
